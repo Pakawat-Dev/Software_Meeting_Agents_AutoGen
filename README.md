@@ -12,7 +12,7 @@ AI-powered meeting simulation for software development discussions using AutoGen
 
 1. Install dependencies:
 ```bash
-pip install pyautogen python-dotenv
+pip install autogen python-dotenv autogen-ext[openai]
 ```
 
 2. Create `.env` file:
